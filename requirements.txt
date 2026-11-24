@@ -1,4 +1,6 @@
+tensorflow==2.21.0
+matplotlib
 numpy
 streamlit
-tensorflow==2.21.0
-pillow
+h5
+keras
